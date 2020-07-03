@@ -7,7 +7,7 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/discoverykids_80e28a51_2b066
 #EXTINF:-1 group-title="Canais | Teste" tvg-logo= ,Cartoon Network HD
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_e8fb94fbbe3d5da3dba4e1170c2d8bfb7ac16f5a/playlist.m3u8
 #EXTINF:-1 group-title="Canais | Teste" tvg-logo= ,Nat Geo Kids HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8
+http://mpegts.azureedge.net/hls1/natgeokids.m3u8
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/JHX",A&E FHD
 http://csrv.tv:80/ANDINHO13/ANDINHO2020/2025
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/JHX",A&E FHD [Alter]
