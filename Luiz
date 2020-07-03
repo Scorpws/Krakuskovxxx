@@ -1,5 +1,9 @@
-#EXTINF:-1 group-title="Canais | Teste" tvg-logo="http://a5.vc/JHX",Discovery H&H FHD
+#EXTINF:-1 group-title="Canais | Teste" tvg-logo= ,Discovery H&H FHD
 http://mpegts.azureedge.net/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1 group-title="Canais | Teste" tvg-logo= ,Boomerang FHD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/boomerang_2659fc51_4242c01a236398ca6602122356daa5962cb3fdd7/playlist.m3u8
+#EXTINF:-1 group-title="Canais | Teste" tvg-logo= ,Discovery Kids FHD
+http://mpegts.azureedge.net/hls1/cartoon.m3u8
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/JHX",A&E FHD
 http://csrv.tv:80/ANDINHO13/ANDINHO2020/2025
 #EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://a5.vc/JHX",A&E FHD [Alter]
