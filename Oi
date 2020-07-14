@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD 4K" tvg-logo=" " group-title="Teste",A&E HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/4788.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="AMC HD 4K" tvg-logo=" " group-title="Teste",AMC HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/4787.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Axn HD 4K" tvg-logo=" " group-title="Teste",Axn HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/4785.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="BandSports HD 4K" tvg-logo=" " group-title="Teste",BandSports HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/4783.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Boomerang HD 4K" tvg-logo=" " group-title="Teste",Boomerang HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/5785.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="Discovery HD 4K" tvg-logo=" " group-title="Teste",Discovery HD 4K
+http://185.93.1.216:8080/live/B2A463CD7A2F/B2A463CD7A2F/4776.ts
