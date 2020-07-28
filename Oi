@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD 4K" tvg-logo=" " group-title="Teste",Discovery FHD - Appino
-http://iptv.appino.tv:80/live/W7DQKUJ/9O4xUxrA/453.m3u8
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD 4K" tvg-logo=" " group-title="Teste",Discovery FHD - TVFacil
-http://srv.tvprodigital.net:80/TesteLuiz/Testeluiz/61230
