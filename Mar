@@ -1,0 +1,402 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E FHD
+http://freshonyx.top:8080/582582/582582/98982
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD*" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E FHD*
+http://freshonyx.top:8080/582582/582582/99267
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD DUAL AUDIO" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E HD DUAL AUDIO
+http://freshonyx.top:8080/582582/582582/98967
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD*" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E HD*
+http://freshonyx.top:8080/582582/582582/99268
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E SD
+http://freshonyx.top:8080/582582/582582/98474
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD*" tvg-logo="https://i.imgur.com/xQ2sG46.png" group-title="FILMES E SERIES ",A&E SD*
+http://freshonyx.top:8080/582582/582582/99269
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL HD" tvg-logo="" group-title="CANAIS ABERTO",AGRO CANAL HD
+http://freshonyx.top:8080/582582/582582/98524
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="" group-title="ESPORTES ",ALL SPORTS HD
+http://freshonyx.top:8080/582582/582582/98666
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC FHD
+http://freshonyx.top:8080/582582/582582/98977
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC FHD*
+http://freshonyx.top:8080/582582/582582/99270
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC HD
+http://freshonyx.top:8080/582582/582582/98671
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC HD*
+http://freshonyx.top:8080/582582/582582/99271
+#EXTINF:-1 tvg-id="-GloboCANAIS" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC SD
+http://freshonyx.top:8080/582582/582582/98452
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo.png" group-title="FILMES E SERIES ",AMC SD*
+http://freshonyx.top:8080/582582/582582/99272
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://freshonyx.top:8080/582582/582582/98924
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://freshonyx.top:8080/582582/582582/98307
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD*
+http://freshonyx.top:8080/582582/582582/99273
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://freshonyx.top:8080/582582/582582/98688
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD*
+http://freshonyx.top:8080/582582/582582/99274
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://freshonyx.top:8080/582582/582582/98460
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-3.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD*
+http://freshonyx.top:8080/582582/582582/99275
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="FILMES E SERIES ",ARTE 1 FHD
+http://freshonyx.top:8080/582582/582582/98347
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="FILMES E SERIES ",ARTE 1 HD
+http://freshonyx.top:8080/582582/582582/98673
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="FILMES E SERIES ",ARTE 1 HD*
+http://freshonyx.top:8080/582582/582582/99277
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png" group-title="FILMES E SERIES ",ARTE 1 SD*
+http://freshonyx.top:8080/582582/582582/99278
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN FHD
+http://freshonyx.top:8080/582582/582582/98308
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN FHD*
+http://freshonyx.top:8080/582582/582582/99279
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN HD
+http://freshonyx.top:8080/582582/582582/98670
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN HD*
+http://freshonyx.top:8080/582582/582582/99280
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN SD
+http://freshonyx.top:8080/582582/582582/98475
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="FILMES E SERIES ",AXN SD*
+http://freshonyx.top:8080/582582/582582/99281
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD*" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="INFANTIS",BABY TV HD*
+http://freshonyx.top:8080/582582/582582/99282
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD*" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="INFANTIS",BABY TV SD*
+http://freshonyx.top:8080/582582/582582/99283
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABYTV SD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="INFANTIS",BABYTV SD
+http://freshonyx.top:8080/582582/582582/98453
+#EXTINF:-1 tvg-id="" tvg-name="BAND 4K" tvg-logo="" group-title="CANAIS ABERTO",BAND 4K
+http://freshonyx.top:8080/582582/582582/98916
+#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD*" tvg-logo="" group-title="CANAIS ABERTO",BAND CAMPINAS SD*
+http://freshonyx.top:8080/582582/582582/99284
+#EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="" group-title="CANAIS ABERTO",BAND FHD
+http://freshonyx.top:8080/582582/582582/98309
+#EXTINF:-1 tvg-id="" tvg-name="BAND HD" tvg-logo="" group-title="CANAIS ABERTO",BAND HD
+http://freshonyx.top:8080/582582/582582/98615
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",BAND NEWS FHD
+http://freshonyx.top:8080/582582/582582/98310
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",BAND NEWS HD
+http://freshonyx.top:8080/582582/582582/98674
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",BAND NEWS HD*
+http://freshonyx.top:8080/582582/582582/99286
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",BAND NEWS SD
+http://freshonyx.top:8080/582582/582582/98604
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",BAND NEWS SD*
+http://freshonyx.top:8080/582582/582582/99287
+#EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE SD*" tvg-logo="" group-title="CANAIS ABERTO",BAND NORDESTE SD*
+http://freshonyx.top:8080/582582/582582/99288
+#EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="" group-title="CANAIS ABERTO",BAND SD
+http://freshonyx.top:8080/582582/582582/98454
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD*" tvg-logo="" group-title="CANAIS ABERTO",BAND SP FHD*
+http://freshonyx.top:8080/582582/582582/99289
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD*" tvg-logo="" group-title="CANAIS ABERTO",BAND SP HD*
+http://freshonyx.top:8080/582582/582582/99290
+#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD*" tvg-logo="" group-title="CANAIS ABERTO",BAND SP SD*
+http://freshonyx.top:8080/582582/582582/99291
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS FHD
+http://freshonyx.top:8080/582582/582582/98311
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS FHD*
+http://freshonyx.top:8080/582582/582582/99292
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS HD
+http://freshonyx.top:8080/582582/582582/98665
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS HD*
+http://freshonyx.top:8080/582582/582582/99293
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS SD
+http://freshonyx.top:8080/582582/582582/98483
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1280px-BandSports_logo.svg.png" group-title="ESPORTES ",BAND SPORTS SD*
+http://freshonyx.top:8080/582582/582582/99294
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES E MUSICAS",BIS FHD
+http://freshonyx.top:8080/582582/582582/98393
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES E MUSICAS",BIS HD
+http://freshonyx.top:8080/582582/582582/98669
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES E MUSICAS",BIS HD*
+http://freshonyx.top:8080/582582/582582/99295
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES E MUSICAS",BIS SD
+http://freshonyx.top:8080/582582/582582/98455
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="VARIEDADES E MUSICAS",BIS SD*
+http://freshonyx.top:8080/582582/582582/99296
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG INTERNATIONAL FHD" tvg-logo="" group-title="DOCUMENTARIOS",BLOOMBERG INTERNATIONAL FHD
+http://freshonyx.top:8080/582582/582582/98417
+#EXTINF:-1 tvg-id="" tvg-name="BOA VONTADE TV SD" tvg-logo="https://multimidia.boavontade.com/sites/default/files/styles/grande/public/800_75.jpg?itok=fEbi89UB" group-title="RELIGIOSOS",BOA VONTADE TV SD
+http://freshonyx.top:8080/582582/582582/98456
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG FHD
+http://freshonyx.top:8080/582582/582582/98348
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG FHD*
+http://freshonyx.top:8080/582582/582582/99297
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG HD
+http://freshonyx.top:8080/582582/582582/98616
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG HD*
+http://freshonyx.top:8080/582582/582582/99298
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG SD
+http://freshonyx.top:8080/582582/582582/98501
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMBERANG SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Boomerang_logo.jpg" group-title="INFANTIS",BOOMBERANG SD*
+http://freshonyx.top:8080/582582/582582/99299
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="VARIEDADES E MUSICAS",CANAL 26 ARGENTINA HD
+http://freshonyx.top:8080/582582/582582/98617
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-3.png" group-title="VARIEDADES E MUSICAS",CANAL BRASIL FHD
+http://freshonyx.top:8080/582582/582582/98349
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-3.png" group-title="VARIEDADES E MUSICAS",CANAL BRASIL HD
+http://freshonyx.top:8080/582582/582582/98675
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-3.png" group-title="VARIEDADES E MUSICAS",CANAL BRASIL HD*
+http://freshonyx.top:8080/582582/582582/99709
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-3.png" group-title="VARIEDADES E MUSICAS",CANAL BRASIL SD
+http://freshonyx.top:8080/582582/582582/98464
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-3.png" group-title="VARIEDADES E MUSICAS",CANAL BRASIL SD*
+http://freshonyx.top:8080/582582/582582/99300
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES E MUSICAS",CANAL DO BOI FHD
+http://freshonyx.top:8080/582582/582582/98427
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="VARIEDADES E MUSICAS",CANAL DO BOI SD*
+http://freshonyx.top:8080/582582/582582/99301
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL SD" tvg-logo="" group-title="CANAIS ABERTO",CANAL RURAL SD
+http://freshonyx.top:8080/582582/582582/98525
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL SD*" tvg-logo="" group-title="CANAIS ABERTO",CANAL RURAL SD*
+http://freshonyx.top:8080/582582/582582/99302
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY FHD
+http://freshonyx.top:8080/582582/582582/98946
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY FHD*" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY FHD*
+http://freshonyx.top:8080/582582/582582/99193
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY HD
+http://freshonyx.top:8080/582582/582582/98676
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD*" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY HD*
+http://freshonyx.top:8080/582582/582582/99194
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY SD
+http://freshonyx.top:8080/582582/582582/98530
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD*" tvg-logo="https://4.bp.blogspot.com/-qWiKzPaF5FU/WhhMqYrjJmI/AAAAAAAABXk/YU2uh_h20i0eN1nLpc81jTY1hRPClUaKQCLcBGAs/s1600/canalsony.png" group-title="FILMES E SERIES ",CANAL SONY SD*
+http://freshonyx.top:8080/582582/582582/99305
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇAO NOVA SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSOS",CANÇAO NOVA SD
+http://freshonyx.top:8080/582582/582582/98476
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="RELIGIOSOS",CANÇÃO NOVA HD*
+http://freshonyx.top:8080/582582/582582/99712
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK  HD" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK  HD
+http://freshonyx.top:8080/582582/582582/98677
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://freshonyx.top:8080/582582/582582/98927
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK FHD
+http://freshonyx.top:8080/582582/582582/98312
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD*" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK FHD*
+http://freshonyx.top:8080/582582/582582/99307
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD*" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK HD*
+http://freshonyx.top:8080/582582/582582/99308
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK SD
+http://freshonyx.top:8080/582582/582582/98502
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD*" tvg-logo="https://p.kindpng.com/picc/s/694-6944409_cartoon-network-logo-2004-download-cartoon-network-hd.png" group-title="INFANTIS",CARTOON NETWORK SD*
+http://freshonyx.top:8080/582582/582582/99309
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/LOGOCHEFTV.jpg" group-title="VARIEDADES E MUSICAS",CHEF TV HD*
+http://freshonyx.top:8080/582582/582582/99310
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 1 HD*
+http://freshonyx.top:8080/582582/582582/99718
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 01 HD*
+http://freshonyx.top:8080/582582/582582/99311
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 02 HD*
+http://freshonyx.top:8080/582582/582582/99312
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 03 HD*
+http://freshonyx.top:8080/582582/582582/99313
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 04 HD*
+http://freshonyx.top:8080/582582/582582/99314
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 05 HD*
+http://freshonyx.top:8080/582582/582582/99315
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 06 HD*
+http://freshonyx.top:8080/582582/582582/99316
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 07 HD*
+http://freshonyx.top:8080/582582/582582/99317
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 08 HD*
+http://freshonyx.top:8080/582582/582582/99318
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 09 HD*
+http://freshonyx.top:8080/582582/582582/99319
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 1
+http://freshonyx.top:8080/582582/582582/98423
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 HD*" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 10 HD*
+http://freshonyx.top:8080/582582/582582/99320
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 2
+http://freshonyx.top:8080/582582/582582/98424
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 5" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY 5
+http://freshonyx.top:8080/582582/582582/98425
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX FHD
+http://freshonyx.top:8080/582582/582582/98350
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX FHD*
+http://freshonyx.top:8080/582582/582582/99321
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX HD
+http://freshonyx.top:8080/582582/582582/98678
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX HD*
+http://freshonyx.top:8080/582582/582582/99322
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX SD
+http://freshonyx.top:8080/582582/582582/98480
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="FILMES E SERIES ",CINEMAX SD*
+http://freshonyx.top:8080/582582/582582/99323
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="CANAIS GLOBO",CNN BRASIL FHD
+http://freshonyx.top:8080/582582/582582/99917
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD
+http://freshonyx.top:8080/582582/582582/98721
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD*" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTICIAS",CNN BRASIL HD*
+http://freshonyx.top:8080/582582/582582/99324
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD
+http://freshonyx.top:8080/582582/582582/98599
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL SD*" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTICIAS",CNN BRASIL SD*
+http://freshonyx.top:8080/582582/582582/99325
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD" tvg-logo="http://images2.wikia.nocookie.net/__cb20091201161554/logopedia/images/thumb/0/02/CNN_International_old.svg/200px-CNN_International_old.svg.png" group-title="NOTICIAS",CNN INTERNACIONAL SD
+http://freshonyx.top:8080/582582/582582/98457
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE 4K
+http://freshonyx.top:8080/582582/582582/98917
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE FHD
+http://freshonyx.top:8080/582582/582582/98313
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD H265" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE FHD H265
+http://freshonyx.top:8080/582582/582582/98965
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE FHD*" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE FHD*
+http://freshonyx.top:8080/582582/582582/99326
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE HD
+http://freshonyx.top:8080/582582/582582/98679
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD*" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE HD*
+http://freshonyx.top:8080/582582/582582/99327
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE SD
+http://freshonyx.top:8080/582582/582582/98465
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE SD*" tvg-logo="https://1.bp.blogspot.com/-XP-RPlEf3V8/WhWIj9qy8vI/AAAAAAAABTM/JFgksHOzrXcf55H4Ag8JJn6l0E8GBAG5ACLcBGAs/s1600/combate.png" group-title="ESPORTES ",COMBATE SD*
+http://freshonyx.top:8080/582582/582582/99727
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD*" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL FHD*
+http://freshonyx.top:8080/582582/582582/99728
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD*" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL HD*
+http://freshonyx.top:8080/582582/582582/99729
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD*" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL SD*
+http://freshonyx.top:8080/582582/582582/99730
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL  FHD" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL  FHD
+http://freshonyx.top:8080/582582/582582/98978
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL  HD" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL  HD
+http://freshonyx.top:8080/582582/582582/98680
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL  SD" tvg-logo="https://4.bp.blogspot.com/-OI1MpOShYPQ/XHr0g08i_JI/AAAAAAABSms/IWyINMdPP7Aon84CJRYT5OX3QJXmtvUUwCPcBGAYYCw/s1600/comedy_central_2018_logo.png" group-title="VARIEDADES E MUSICAS",COMEDY CENTRAL  SD
+http://freshonyx.top:8080/582582/582582/98463
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA SD" tvg-logo="" group-title="CANAIS ABERTO",CULTURA SD
+http://freshonyx.top:8080/582582/582582/98550
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA SD*" tvg-logo="" group-title="CANAIS ABERTO",CULTURA SD*
+http://freshonyx.top:8080/582582/582582/99732
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD*" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png" group-title="VARIEDADES E MUSICAS",CURTA! HD*
+http://freshonyx.top:8080/582582/582582/99733
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! SD*" tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s1600/curta.png" group-title="VARIEDADES E MUSICAS",CURTA! SD*
+http://freshonyx.top:8080/582582/582582/99734
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTES ",DAZN 1
+http://freshonyx.top:8080/582582/582582/99735
+#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="ESPORTES ",DAZN HD
+http://freshonyx.top:8080/582582/582582/98944
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+http://freshonyx.top:8080/582582/582582/98921
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD
+http://freshonyx.top:8080/582582/582582/98980
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD*" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL FHD*
+http://freshonyx.top:8080/582582/582582/99736
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://freshonyx.top:8080/582582/582582/98681
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD*" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD*
+http://freshonyx.top:8080/582582/582582/99737
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD
+http://freshonyx.top:8080/582582/582582/98485
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD*" tvg-logo="https://img2.gratispng.com/20180404/poe/kisspng-discovery-channel-logo-television-channel-discover-investigation-5ac4e8fb2f2be3.8742228415228541391932.jpg" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL SD*
+http://freshonyx.top:8080/582582/582582/99738
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H FHD
+http://freshonyx.top:8080/582582/582582/98400
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD*" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H FHD*
+http://freshonyx.top:8080/582582/582582/99338
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://freshonyx.top:8080/582582/582582/98682
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD*" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H HD*
+http://freshonyx.top:8080/582582/582582/99339
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H SD
+http://freshonyx.top:8080/582582/582582/98486
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD*" tvg-logo="https://2.bp.blogspot.com/-AmQ0dwFN0_k/We9CYmsd_0I/AAAAAAACNhc/60oLBJdnLYMymwGyKnOG3yzVy52_983twCLcBGAs/s1600/Discovery_Home_%2526_Health_Asia.svg.png" group-title="DOCUMENTARIOS",DISCOVERY H&H SD*
+http://freshonyx.top:8080/582582/582582/99340
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION FHD
+http://freshonyx.top:8080/582582/582582/98973
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION FHD*" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION FHD*
+http://freshonyx.top:8080/582582/582582/99090
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION HD
+http://freshonyx.top:8080/582582/582582/98706
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION HD*" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION HD*
+http://freshonyx.top:8080/582582/582582/99509
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION SD" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION SD
+http://freshonyx.top:8080/582582/582582/98554
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="DISCOVERY INVESTIGATION SD*" tvg-logo="https://e7.pngegg.com/pngimages/990/155/png-clipart-investigation-discovery-discovery-channel-television-show-logo-investigation-miscellaneous-television.png" group-title="DOCUMENTARIOS",DISCOVERY INVESTIGATION SD*
+http://freshonyx.top:8080/582582/582582/99092
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS FHD
+http://freshonyx.top:8080/582582/582582/98352
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD*" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS FHD*
+http://freshonyx.top:8080/582582/582582/99743
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS HD
+http://freshonyx.top:8080/582582/582582/98618
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD*" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS HD*
+http://freshonyx.top:8080/582582/582582/99744
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS SD
+http://freshonyx.top:8080/582582/582582/98487
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD*" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/d/d9/Discovery_Kids_logo.svg/revision/latest/scale-to-width-down/340?cb=20180202134814&path-prefix=pt-br" group-title="INFANTIS",DISCOVERY KIDS SD*
+http://freshonyx.top:8080/582582/582582/99745
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD
+http://freshonyx.top:8080/582582/582582/98387
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE FHD*" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE FHD*
+http://freshonyx.top:8080/582582/582582/99747
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD
+http://freshonyx.top:8080/582582/582582/98683
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD*" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE HD*
+http://freshonyx.top:8080/582582/582582/99748
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD
+http://freshonyx.top:8080/582582/582582/98541
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE SD*" tvg-logo="https://www.pikpng.com/pngl/m/495-4959319_discovery-science-logo-clipart.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE SD*
+http://freshonyx.top:8080/582582/582582/99749
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+http://freshonyx.top:8080/582582/582582/98351
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD*
+http://freshonyx.top:8080/582582/582582/99750
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD
+http://freshonyx.top:8080/582582/582582/98684
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER HD*
+http://freshonyx.top:8080/582582/582582/99751
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD
+http://freshonyx.top:8080/582582/582582/98540
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER SD*
+http://freshonyx.top:8080/582582/582582/99752
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC FHD*" tvg-logo="" group-title="VARIEDADES E MUSICAS",DISCOVERY TLC FHD*
+http://freshonyx.top:8080/582582/582582/99753
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC HD*" tvg-logo="https://img2.gratispng.com/20180526/ugj/kisspng-tlc-logo-the-drs-wolfson-television-ranks-5b0902fc7fbd37.4553786215273172445232.jpg" group-title="VARIEDADES E MUSICAS",DISCOVERY TLC HD*
+http://freshonyx.top:8080/582582/582582/99754
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="DISCOVERY TLC SD*" tvg-logo="https://img2.gratispng.com/20180526/ugj/kisspng-tlc-logo-the-drs-wolfson-television-ranks-5b0902fc7fbd37.4553786215273172445232.jpg" group-title="VARIEDADES E MUSICAS",DISCOVERY TLC SD*
+http://freshonyx.top:8080/582582/582582/99755
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD
+http://freshonyx.top:8080/582582/582582/98314
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO FHD*" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO FHD*
+http://freshonyx.top:8080/582582/582582/99756
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://freshonyx.top:8080/582582/582582/98619
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD*" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD*
+http://freshonyx.top:8080/582582/582582/99757
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD
+http://freshonyx.top:8080/582582/582582/98606
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO SD*" tvg-logo="https://i.ytimg.com/vi/V20BSCEaOuk/maxresdefault.jpg" group-title="DOCUMENTARIOS",DISCOVERY TURBO SD*
+http://freshonyx.top:8080/582582/582582/99758
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD
+http://freshonyx.top:8080/582582/582582/98353
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD FHD*" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD FHD*
+http://freshonyx.top:8080/582582/582582/99760
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD HD
+http://freshonyx.top:8080/582582/582582/98685
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD
+http://freshonyx.top:8080/582582/582582/98542
+#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="DISCOVERY WORLD SD*" tvg-logo="https://www.nicepng.com/png/detail/134-1342363_discovery-channel-logo-discovery-world.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD SD*
+http://freshonyx.top:8080/582582/582582/99762
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL FHD
+http://freshonyx.top:8080/582582/582582/98354
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL FHD*
+http://freshonyx.top:8080/582582/582582/99764
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL HD
+http://freshonyx.top:8080/582582/582582/98686
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL HD*
+http://freshonyx.top:8080/582582/582582/99765
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL SD
+http://freshonyx.top:8080/582582/582582/98594
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL SD
+http://freshonyx.top:8080/582582/582582/98503
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1280px-Disney_Channel_logo.svg.png" group-title="INFANTIS",DISNEY CHANNEL SD*
+http://freshonyx.top:8080/582582/582582/99361
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="INFANTIS",DISNEY JUNIOR FHD
+http://freshonyx.top:8080/582582/582582/98355
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR FHD*" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="INFANTIS",DISNEY JUNIOR FHD*
+http://freshonyx.top:8080/582582/582582/99767
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="INFANTIS",DISNEY JUNIOR HD
+http://freshonyx.top:8080/582582/582582/98620
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JUNIOR HD*" tvg-logo="https://www.kindpng.com/picc/m/19-194195_disney-junior-logo-disney-junior-channel-logo-hd.png" group-title="INFANTIS",DISNEY JUNIOR HD*
